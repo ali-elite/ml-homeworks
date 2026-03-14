@@ -1,4 +1,4 @@
-# Machine Learning Homeworks 🧠🤖
+# Machine Learning: Concepts & Implementations 🧠🤖
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
